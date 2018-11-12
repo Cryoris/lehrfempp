@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['parallelogram',['Parallelogram',['../classlf_1_1geometry_1_1_parallelogram.html#ac6db5403572a5537778402a89e5585b0',1,'lf::geometry::Parallelogram::Parallelogram(Eigen::Matrix&lt; double, Eigen::Dynamic, 4 &gt; coords)'],['../classlf_1_1geometry_1_1_parallelogram.html#a917b8abb01601e0799f1f3c312b52229',1,'lf::geometry::Parallelogram::Parallelogram(const Eigen::VectorXd &amp;p0, const Eigen::VectorXd &amp;p1, const Eigen::VectorXd &amp;p2)']]],
+  ['parentinfos',['ParentInfos',['../classlf_1_1refinement_1_1_mesh_hierarchy.html#aa22815da05f33324ada91d358374ed17',1,'lf::refinement::MeshHierarchy']]],
+  ['performrefinement',['PerformRefinement',['../classlf_1_1refinement_1_1_mesh_hierarchy.html#ac18f1c6c7d4cca9de0647287913509f8',1,'lf::refinement::MeshHierarchy']]],
+  ['physicalentities',['PhysicalEntities',['../classlf_1_1io_1_1_gmsh_reader.html#a5fa489693ed8a84cbd5208851df22eec',1,'lf::io::GmshReader']]],
+  ['physicalentityname2nr',['PhysicalEntityName2Nr',['../classlf_1_1io_1_1_gmsh_reader.html#ab990fa23e7f36c4010b06618ca41b157',1,'lf::io::GmshReader']]],
+  ['physicalentitynr',['PhysicalEntityNr',['../classlf_1_1io_1_1_gmsh_reader.html#a840f2aa7d3b228872385d19d1df91360',1,'lf::io::GmshReader']]],
+  ['physicalentitynr2name',['PhysicalEntityNr2Name',['../classlf_1_1io_1_1_gmsh_reader.html#a6b100d60f2f582fd1b47f2a2386448b1',1,'lf::io::GmshReader']]],
+  ['point',['Point',['../classlf_1_1mesh_1_1hybrid2d_1_1_point.html#ad79b7101a9a79ae11c64d65c9891de6c',1,'lf::mesh::hybrid2d::Point::Point()=default'],['../classlf_1_1mesh_1_1hybrid2d_1_1_point.html#a2d74d371931bdf03825416b182962adf',1,'lf::mesh::hybrid2d::Point::Point(const Point &amp;)=delete'],['../classlf_1_1mesh_1_1hybrid2d_1_1_point.html#af258de1c07fc81784ed3d74b54aca286',1,'lf::mesh::hybrid2d::Point::Point(size_type index, std::unique_ptr&lt; geometry::Geometry &gt; &amp;&amp;geometry)']]],
+  ['pointchildinfos',['PointChildInfos',['../classlf_1_1refinement_1_1_mesh_hierarchy.html#aa1675ba7fbc0c333d8470d96c73a6a2e',1,'lf::refinement::MeshHierarchy']]],
+  ['points',['Points',['../classlf_1_1quad_1_1_quad_rule.html#acaaa57e5f8a1ad35be4776e11d5b69df',1,'lf::quad::QuadRule']]],
+  ['printinfo',['PrintInfo',['../classlf_1_1assemble_1_1_c_o_o_matrix.html#ac43bbea4e52ae0de4e197009c219b136',1,'lf::assemble::COOMatrix::PrintInfo()'],['../classlf_1_1quad_1_1_quad_rule.html#af9d3efe58efa94374264853f9f4b0779',1,'lf::quad::QuadRule::PrintInfo()'],['../namespacelf_1_1base.html#af151f15cd8bf3dd8aafcee3b0edfa6e7',1,'lf::base::PrintInfo()'],['../namespacelf_1_1geometry.html#a3acd0bf45078df5db990c41cb7d5054d',1,'lf::geometry::PrintInfo()'],['../namespacelf_1_1mesh_1_1utils.html#a552e6408ae3a3594291a02abb4a65a52',1,'lf::mesh::utils::PrintInfo(const lf::mesh::Mesh &amp;mesh, std::ostream &amp;o)'],['../namespacelf_1_1mesh_1_1utils.html#a22b4d97aa89714aeb5405971ed686fff',1,'lf::mesh::utils::PrintInfo(const lf::mesh::Entity &amp;e, std::ostream &amp;stream)']]],
+  ['printlists',['PrintLists',['../classlf_1_1mesh_1_1hybrid2d_1_1_mesh_factory.html#a8266fb50f6e182c1a23e4bd629f7eeb9',1,'lf::mesh::hybrid2d::MeshFactory']]]
+];
